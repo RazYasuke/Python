@@ -6,5 +6,6 @@ For example, if an image is defined by a 3x3 grid of pixel values, and the (x, y
 
 ![Plot Image](https://github.com/RazYasuke/Python/blob/main/Pixel%20Mapping/images/img_1.png)
  
+### You can enter coordinates in any order but it is recommended to follow the order of the prompts.
 
 Unauthorized reuse/modification/copying is prohibited!
