@@ -6,4 +6,12 @@ For example, if an image is defined by a 3x3 grid of pixel values, and the (x, y
 
 ![Plot Image](https://github.com/RazYasuke/Python/blob/main/Pixel%20Mapping/images/img_1.png)
 
+### Running Webservice
+
+##### Before Execution
+![Plot Image](https://github.com/RazYasuke/Python/blob/main/Pixel%20Mapping/images/web_before.png)
+
+##### After Execution
+![Plot Image](https://github.com/RazYasuke/Python/blob/main/Pixel%20Mapping/images/web_after.png)
+
 Unauthorized reuse/modification/copying is prohibited! 
