@@ -4,6 +4,10 @@
 # This is a program that calculates pixel coordinate values for an image that is to be displayed
 # on a two dimensional surface given the dimensions of the image (assuming a square or rectangular image)
 # and the corner points of the image as it is to be displayed.
+from flask import Flask
+from flask import request
+
+app= Flask(__name__)
 
 import numpy as np
 

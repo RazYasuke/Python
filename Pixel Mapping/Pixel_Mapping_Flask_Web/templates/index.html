@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/" method="POST" enctype="multipart/form-data">
+    <label for="columns">Enter Number of Columns:</label>
+        <input type="text" id="columns" name="columns"><br>
+    <label for="rows">Enter Number of Rows:</label>
+        <input type="text" id="rows" name="rows"><br>
+    <label for="lowerleft">Input Lower Left Point Coordinates Separated By A Comma (eg: x,y):</label>
+        <input type="text" id="lowerleft" name="lowerleft"><br>
+    <label for="lowerright">Input Lower Right Point Coordinates Separated By A Comma (eg: x,y):</label>
+        <input type="text" id="lowerright" name="lowerright"><br>
+    <label for="upperleft">Input Upper Left Point Coordinates Separated By A Comma (eg: x,y):</label>
+        <input type="text" id="upperleft" name="upperleft"><br>
+    <label for="upperright">Input Upper Right Point Coordinates Separated By A Comma (eg: x,y):</label>
+        <input type="text" id="upperright" name="upperright"><br>
+    <button class="btn btn-success" type="submit">Get Results</button>
+</form>
+<p><strong>Corner Points:</strong></p>
+<p>{{cornerpoints}}</p>
+<p><strong>Here Are Your Coordinates Bounded By Corner Points:</strong></p>
+<p>{{fullgrid}}</p>
+
+</body>
+</html>
