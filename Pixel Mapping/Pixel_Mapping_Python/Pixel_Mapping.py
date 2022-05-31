@@ -5,6 +5,7 @@
 # on a two dimensional surface given the dimensions of the image (assuming a square or rectangular image)
 # and the corner points of the image as it is to be displayed.
 
+import numpy as np
 
 #Input of Values
 Col = int(input("Enter Number of Columns:\n"))   #Accepts Column Count Value as Float
