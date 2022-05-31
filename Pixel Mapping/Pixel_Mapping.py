@@ -1,4 +1,4 @@
-#Gianni Lake Fetch Challenge Submission 5/26/2022
+#Gianni Lake 5/26/2022
 #Unauthorized reuse/modification/copying is prohibited!
 
 # This is a program that calculates pixel coordinate values for an image that is to be displayed
