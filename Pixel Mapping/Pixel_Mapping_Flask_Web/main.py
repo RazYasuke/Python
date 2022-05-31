@@ -66,8 +66,6 @@ def cal(Col, Row, lowerleft, lowerright, upperleft, upperright):
                 c+=1
           fullgrid[i].reverse() # Reordering of Current Row
 
-    # print(f'Here Are Your Coordinates Bounded By Corner Points:\n {fullgrid}')
-    # input("Press ENTER to exit.")
     return cornerpoints, fullgrid
 
 
